@@ -1,0 +1,11 @@
+{
+  "threshold": 0.9929383638434212,
+  "target_fp_rate": 0.03,
+  "trans_fp": 3,
+  "trans_fp_rate": 0.025210084033613446,
+  "ai_tp": 318,
+  "ai_fn": 32,
+  "ai_recall": 0.9085714285714286,
+  "n_trans": 119,
+  "n_ai": 350
+}
